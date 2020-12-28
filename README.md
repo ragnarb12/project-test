@@ -1,3 +1,3 @@
 # project-test
 
-Este texto esta escrito de forma local
+Este texto esta escrito de forma remota
